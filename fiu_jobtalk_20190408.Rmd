@@ -115,7 +115,7 @@ GitHub: <https://github.com/gabrielodom>
 </div>
 
 
-## Statistics vs Data Science
+## Statistician or Data Scientist?
 
 Six Divisions of "Greater" Data Science ([Donaho, 2017](https://doi.org/10.1080/10618600.2017.1384734)):
 
@@ -234,7 +234,7 @@ Software packages for a published paper document and organize the code necessary
 <!-- -- [Jeff Leek, Professor of Biostatistics, Johns Hopkins](https://simplystatistics.org/2013/01/23/statisticians-and-computer-scientists-if-there-is-no-code-there-is-no-paper/) -->
 Software packages:
 
-1. make your entire paper <font color="#081E3F">**reproducible**</font>, 
+1. make your entire analysis <font color="#081E3F">**reproducible**</font>, 
 2. make your research process <font color="#081E3F">**ethical** and **transparent**</font>,
 3. follow the spirit of the *Literate Programming* principle ([Knuth, 1984](http://www.literateprogramming.com/knuthweb.pdf)), and
 4. enable the next generation of scientists to "stand on your shoulders".
@@ -244,7 +244,7 @@ Software packages:
 
 Software packages:
 
-1. make your entire paper <font color="#081E3F">**reproducible**</font>, 
+1. make your entire analysis <font color="#081E3F">**reproducible**</font>, 
 2. make your research process <font color="#081E3F">**ethical** and **transparent**</font>,
 3. follow the spirit of the *Literate Programming* principle ([Knuth, 1984](http://www.literateprogramming.com/knuthweb.pdf)), and
 4. enable the next generation of scientists to "stand on your shoulders".
